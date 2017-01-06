@@ -1,0 +1,26 @@
+{
+  "name": "docbox",
+  "version": "1.0.0",
+  "description": "[WIP]ドキュメント構築ツール一式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongou-ae/docbox.git"
+  },
+  "author": "kongou-ae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kongou-ae/docbox/issues"
+  },
+  "homepage": "https://github.com/kongou-ae/docbox#readme",
+  "dependencies": {
+    "textlint": "^7.2.1",
+    "textlint-rule-ja-no-redundant-expression": "^1.0.3",
+    "textlint-rule-joyo-kanji": "0.0.1",
+    "textlint-rule-preset-ja-technical-writing": "^0.1.3",
+    "textlint-rule-single-nado": "0.0.2"
+  }
+}
