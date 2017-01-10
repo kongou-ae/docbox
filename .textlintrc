@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "joyo-kanji": true,
+    "ja-no-redundant-expression": true,
+    "single-nado": true
+  }
+}
